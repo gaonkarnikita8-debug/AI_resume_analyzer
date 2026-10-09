@@ -1,0 +1,4 @@
+We are looking for a Python Developer with experience in Python,
+SQL, Machine Learning, Git, GitHub, FastAPI, Docker, AWS and REST API.
+
+The candidate should have knowledge of Pandas, NumPy and Scikit-learn.

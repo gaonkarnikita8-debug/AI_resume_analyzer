@@ -1,0 +1,49 @@
+skill,category
+Python,Programming
+Java,Programming
+C++,Programming
+C,Programming
+JavaScript,Programming
+TypeScript,Programming
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+Machine Learning,AI/ML
+Deep Learning,AI/ML
+Artificial Intelligence,AI/ML
+Natural Language Processing,AI/ML
+Computer Vision,AI/ML
+Pandas,Data Science
+NumPy,Data Science
+Matplotlib,Data Science
+Seaborn,Data Science
+Scikit-learn,AI/ML
+TensorFlow,AI/ML
+PyTorch,AI/ML
+FastAPI,Web Development
+Flask,Web Development
+Django,Web Development
+REST API,Web Development
+HTML,Web Development
+CSS,Web Development
+React,Web Development
+Git,Tools
+GitHub,Tools
+Docker,DevOps
+Kubernetes,DevOps
+Jenkins,DevOps
+AWS,Cloud
+Azure,Cloud
+Google Cloud,Cloud
+Power BI,Data Analytics
+Excel,Data Analytics
+Tableau,Data Analytics
+Spark,Big Data
+Hadoop,Big Data
+LLM,Generative AI
+Generative AI,Generative AI
+OpenAI,Generative AI
+LangChain,Generative AI
+RAG,Generative AI
+Prompt Engineering,Generative AI
